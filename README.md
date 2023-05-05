@@ -10,4 +10,6 @@ The boxes have specific sizes, can accomodate a maximum amount of materials (siz
 The materials can have different sizes and weights;
 The boxes must be filled within the maximum capacity (if there are enough materials to fill), the rest of materials will be left out.
 
-![alt text](https://github.com/Codrut02/To-Do-List-Manager/blob/master/Tema%202/Capture.PNG)
+(Solution is on master branch)
+
+![alt text](https://github.com/Codrut02/Boxes-Exercise/blob/master/Capture.PNG)
